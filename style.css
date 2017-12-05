@@ -1,1 +1,4 @@
-h1{font-family: monospace;}
+section{text-align: center; font-family: helvetica; text-align: center; font-family: helvetica; background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);background-repeat: repeat-x; background-position: center top; color: white;}
+body{text-align: center; font-family: helvetica;}
+h4{font-size: 18px; color: white;}
+h1{font-size: 70px; font-weight: bold;}
